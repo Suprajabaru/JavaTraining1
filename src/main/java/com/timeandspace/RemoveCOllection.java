@@ -1,4 +1,4 @@
-package com.collections;
+package com.timeandspace;
 
 import java.util.ArrayList;
 import java.util.HashMap;
